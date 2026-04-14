@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dhksrlghd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/dhksrlghd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=dhksrlghd&style=flat-square&color=FF4B4B&label=Profile+views" />
 </p>
