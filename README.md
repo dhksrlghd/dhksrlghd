@@ -70,14 +70,30 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🖼️ What I Built
 
-<div align="center">
+> 직접 설계·구현한 Streamlit 화면
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhksrlghd&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhksrlghd&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<!-- 스크린샷은 본인 레포의 이미지 URL로 교체하세요.
+     사용 중인 레포에 이미지를 올린 뒤 raw URL을 가져오거나,
+     README에 이미 올린 이미지를 우클릭 → 이미지 주소 복사 하시면 됩니다. -->
 
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>초기 화면</b><br/>
+      <sub>서비스 진입점</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>가격 적정도 분석</b><br/>
+      <sub>분위수 기반 판정 & 히스토그램</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>추천 / 탐색</b><br/>
+      <sub>조건 기반 가성비 추천</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
