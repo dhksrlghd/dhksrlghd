@@ -18,82 +18,66 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 **SK네트웍스 Family AI Camp 26기** 수료
+- 🎓 **SK네트웍스 Family AI Camp 26기**
 - 🎨 데이터를 **사람이 이해할 수 있는 화면**으로 옮기는 작업을 좋아합니다
-- 🧩 새로운 도구를 **직접 부딪혀가며 배우는 타입** (예: Streamlit을 처음부터 스스로 학습해서 서비스 뼈대 구축)
-- ⚖️ 개발이 너무 깊어지지 않도록 **프로젝트 목적에 맞게 깊이를 조율**하는 감각을 중요하게 생각해요
+- 🧩 새로운 도구를 **직접 부딪혀가며 배우는 타입**
+- 📋 노션·일정 관리를 활용한 **PM 역할**로 팀 프로젝트를 이끌어본 경험이 있습니다
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Language & Data**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-**Collaboration**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
 ---
 
-### 🚗 Featured Project
+### 📂 Projects
 
-#### [데이터 기반 중고차 구매 의사결정 지원 서비스](https://github.com/SKN26-1st-1team/used_car)
+#### 🚗 중고차 구매 의사결정 지원 서비스
+> SKN26 1차 프로젝트 · **Streamlit UI/UX 담당**
 
-> 단순 매물 조회가 아닌, **"이 가격이 합리적인가?"** 를 해석해주는 서비스
+유사 차량 군집 기반 기대가격을 산출해 가격 적정도를 판정하는 서비스.
+서비스 전체 레이아웃 설계·구현과 분석 결과 시각화를 맡았습니다.
 
-**맡은 역할 — Streamlit UI/UX 설계 & 시각화**
-- 🎨 서비스 전체 **레이아웃 설계·구현** (가격 적정도 분석 / 추천 탐색 두 흐름)
-- 📊 분석 결과를 **한눈에 읽히는 히스토그램**으로 시각화 (구간색 + 기준선 + 중앙값)
-- 🧭 "개발이 너무 깊어지지 않도록" **프로젝트 범위를 조율**하며 UI 구현
-- 🤝 데이터 변경 상황을 수시로 확인하며 **팀원들과 지속 커뮤니케이션**
+`Streamlit` `Python` `MySQL` `Docker`
+→ [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN26-1ST-1TEAM)
 
-`Streamlit` `Python` `Matplotlib` `Pandas` `MySQL` `Docker`
+<br/>
 
----
+#### 📱 KMP 기반 통신사 고객 이탈 예측
+> SKN26 2차 프로젝트 · **PM & `churn_to_mvno` 분석 담당**
 
-### 🖼️ What I Built
+한국미디어패널 데이터를 transition 기반 long panel로 재구성하여 통신사 이탈을 예측.
+희소 클래스(양성 ~1.25%) 문제의 threshold 비교·한계 해석을 맡고, 노션으로 팀 일정을 조율했습니다.
 
-> 직접 설계·구현한 Streamlit 화면
+`scikit-learn` `LogisticRegression` `RandomForest` `Pandas`
+→ [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN26-2nd-2TEAM)
 
-<!-- 스크린샷은 본인 레포의 이미지 URL로 교체하세요.
-     사용 중인 레포에 이미지를 올린 뒤 raw URL을 가져오거나,
-     README에 이미 올린 이미지를 우클릭 → 이미지 주소 복사 하시면 됩니다. -->
+<br/>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <b>초기 화면</b><br/>
-      <sub>서비스 진입점</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>가격 적정도 분석</b><br/>
-      <sub>분위수 기반 판정 & 히스토그램</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>추천 / 탐색</b><br/>
-      <sub>조건 기반 가성비 추천</sub>
-    </td>
-  </tr>
-</table>
+#### 🤖 LLM Length Control Playground  <sub>*(진행 중)*</sub>
+> LLM 응답 길이 제어에 관한 실험 레포지토리
+
+→ [Repository](https://github.com/Joraemon-s-Secret-Gadgets/llm-length-control-playground)
 
 ---
 
