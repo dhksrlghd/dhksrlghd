@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Wangi Hong
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=Data+%E2%80%A2+UI%2FUX+%E2%80%A2+Visualization;Turning+data+into+interfaces+people+get;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC+%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=Data+%C2%B7+ML+%C2%B7+LLM+Engineering;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%2C+%EC%82%AC%EB%9E%8C%EC%9D%B4+%EC%93%B8+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC;Defining+problems+with+data%2C+building+services+people+use" />
 
 <br/>
 
