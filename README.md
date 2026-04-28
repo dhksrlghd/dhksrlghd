@@ -74,10 +74,14 @@
 
 <br/>
 
-#### 🤖 LLM Length Control Playground  <sub>*(진행 중)*</sub>
-> LLM 응답 길이 제어에 관한 실험 레포지토리
+#### 👛 Job Pocket · RAG 기반 AI 자소서 초안 생성 서비스
+> SKN26 3차 프로젝트 · **문서화 & 품질 평가 인프라 담당**
 
-→ [Repository](https://github.com/Joraemon-s-Secret-Gadgets/llm-length-control-playground)
+채용 공고 데이터를 검색하는 RAG 파이프라인을 통해 직무 적합도 피드백과 자소서 초안을 생성하는 서비스.
+아키텍처·백엔드·모델 전 도메인 위키 문서화와 LLM 품질을 정량 평가하는 테스트 인프라를 맡고, 글자 수 제어 프롬프트 실험으로 자소서 분량 조절 로직 설계에 기여했습니다.
+
+`Python` `FastAPI` `Streamlit` `RAG` `MySQL Vector` `Docker`
+→ [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN26-3rd-1TEAM)
 
 ---
 
